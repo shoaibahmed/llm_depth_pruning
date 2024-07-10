@@ -1,0 +1,10 @@
+**/__pycache__/
+**/*logs*/
+**/*datasets*/
+**/*checkpoints*/
+**/wandb/
+*.log
+*.out
+*.png
+*.csv
+machine.*
