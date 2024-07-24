@@ -1,6 +1,6 @@
 # A deeper look at depth pruning of LLMs
 
-The official implementation for the paper: "A deeper look at depth pruning of LLMs" (https://arxiv.org/abs/).
+The official implementation for the paper: "A deeper look at depth pruning of LLMs" (https://arxiv.org/abs/2407.16286).
 
 
 ## Usage
@@ -28,6 +28,13 @@ The evaluate the model based on different layer influence techniques, check the 
 
 ## Citation
 
+```
+@inproceedings{siddiqui2024deeper,
+  title={A deeper look at depth pruning of LLMs},
+  author={Siddiqui, Shoaib Ahmed and Dong, Xin and Heinrich, Greg and Breuel, Thomas and Kautz, Jan and Krueger, David and Molchanov, Pavlo},
+  booktitle={ICML 2024 Workshop on Theoretical Foundations of Foundation Models}
+}
+```
 
 ## License
 
